@@ -1,1 +1,4 @@
-hola nico
+massa = df_diputados["IDLN105"]
+partido= df_diputados ["partido"]
+
+
